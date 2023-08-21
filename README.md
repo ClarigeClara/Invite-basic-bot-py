@@ -22,4 +22,4 @@ Dieser Script richtet eher als Vorlage, deswegen ist auch ein Errorhandling dabe
 Die URL:
 Die "Client ID" Findet ihr in Developer Portal bei Discord.
 
-https://discord.com/api/oauth2/authorize?client_id=<Client ID>&permissions=274877908993&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=00000000000000000000&permissions=274877908993&scope=bot
