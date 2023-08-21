@@ -18,7 +18,7 @@ In Discord selbst muss der Bot folgende Berechtigung haben:
 
 WICHTIG:
 Dieser Script richtet eher als Vorlage, deswegen ist auch ein Errorhandling dabei.
-
+Dies ist ein Codesnipsel von Claralara.
 
 Die URL:
 https://discord.com/api/oauth2/authorize?client_id=00000000000000000000&permissions=274877908993&scope=bot
