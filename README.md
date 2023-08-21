@@ -19,7 +19,7 @@ In Discord selbst muss der Bot folgende Berechtigung haben:
 WICHTIG:
 Dieser Script richtet eher als Vorlage, deswegen ist auch ein Errorhandling dabei.
 
-Die URL:
-Die "Client ID" Findet ihr in Developer Portal bei Discord.
 
+Die URL:
 https://discord.com/api/oauth2/authorize?client_id=00000000000000000000&permissions=274877908993&scope=bot
+Die "Client ID" Findet ihr in Developer Portal bei Discord.
