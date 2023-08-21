@@ -24,7 +24,7 @@ async def status_task() -> None:
     await asyncio.sleep(10)
 
 # Gehe auf dem Discord-Server und tippe "/invite" ein!
-@bot.slash_command(name="invite", description="Erstelle dir einen Invite")
+@bot.slash_command(name="invite", description="Erstelle dir ein Invite")
 @commands.has_permissions(ban_members=True)
 async def invite(ctx):
     link = await ctx.channel.create_invite(reason=None, max_age=0, max_uses=0, temporary=False, unique=True)
