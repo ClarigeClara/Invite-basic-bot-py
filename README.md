@@ -17,7 +17,7 @@ In Discord selbst muss der Bot folgende Berechtigung haben:
 - Nachrichten in Threads senden
 
 WICHTIG:
-Dieser Script richtet eher als Vorlage, deswegen ist auch ein Errorhandling dabei.
+Dieser Script richtet eher als Vorlage, deswegen ist auch kein Errorhandling dabei.
 Dies ist ein Codesnipsel von Claralara.
 
 Die URL:
